@@ -1,7 +1,7 @@
 # instagram_clone
 
 A clone instagram UI application.
-All Images are taken from Unsplash.com
+
 
 Snapshot:
 ![image](https://user-images.githubusercontent.com/51260891/128295525-757024af-95f2-4179-84bc-0062a272034a.jpeg)
@@ -10,6 +10,11 @@ Demo:
 
 
 https://user-images.githubusercontent.com/51260891/128295535-27f5fc14-8bd5-4f1c-a2f2-a5bedc09c0b3.mp4
+
+
+
+
+All Images are taken from Unsplash.com
 
 
 ## Getting Started
